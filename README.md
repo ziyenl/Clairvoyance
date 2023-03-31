@@ -1,3 +1,3 @@
 # web-python
-Django Python
+Django Python <br />
 Partial model of a friends app
